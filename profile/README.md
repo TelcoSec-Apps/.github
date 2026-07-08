@@ -15,8 +15,8 @@ TelcoSec Labs is a community-driven initiative focused on auditing, securing, an
 | **Official Site** | [telco-sec.com](https://www.telco-sec.com/) | Corporate and high-level project information. |
 | **Research Blog** | [blog.telco-sec.com](https://blog.telco-sec.com/) | Technical deep-dives and vulnerability disclosures. |
 | **Security Library** | [library.telco-sec.com](https://library.telco-sec.com/) | A curated repository of 3GPP specs and research papers. |
-| **Tooling Hub** | [tools.telco-sec.com](https://tools.telco-sec.com/) | Custom scripts and tools for telco security testing. |
-| **Interactive Labs** | [labs.telco-sec.com](https://labs.telco-sec.com/) | Lab-as-Code environments and provisioning scripts. |
+| **Tooling Hub** | [tools.telcosec.net](https://tools.telcosec.net/) | Custom scripts and tools for telco security testing. |
+| **Interactive Labs** | [app.telcosec.net](https://app.telcosec.net/) | Lab-as-Code environments and provisioning scripts. |
 | **3GPP Navigator** | [3gpp.telco-sec.com](https://3gpp.telco-sec.com/) | Fast access to 3GPP technical specifications. |
 
 ---
